@@ -10,3 +10,5 @@ This information will guide TechStream Solutions in refining their business stra
 
 Let's analyze financil health of this company by Colab! (attached link)
 
+
+https://colab.research.google.com/drive/18DIKpxZ88GUhZFc9kS6ZJ5bG8ZrcsxIv?usp=sharing
